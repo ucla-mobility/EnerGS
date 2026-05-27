@@ -1,0 +1,20 @@
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+.DS_Store
+output/
+build/
+*.egg-info/
+dist/
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+tensorboard_3d
+screenshots
+
+# Local paper drafts / scratch
+EnerGS_arXiv__camera_ready_/
+*.aux
+*.log
+*.out
+*.synctex.gz
